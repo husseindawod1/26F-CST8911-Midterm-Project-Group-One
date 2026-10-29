@@ -3,7 +3,6 @@ CST8911 Scenario 2 - Azure SQL Database bookstore schema
 Source: https://databasesample.com/datasets/online-bookstore-orders-and-reviews-dataset
 Adapted from the supplied MSSQL v1 script (synthetic data, CC0-1.0).
 
-Run this entire file in your empty PROJECT database, not master.
 It creates seven empty tables; Data Factory loads the CSV records later.
 It does not delete or replace existing tables and will stop if a target exists.
 
