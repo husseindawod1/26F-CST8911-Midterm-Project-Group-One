@@ -1,0 +1,151 @@
+id,title,isbn,author_id,publisher_id,genre,format,pages,list_price,published_on
+1,Kitchen Ember Winter,978-1-4718-9486-2,18,11,history,ebook,491,38.07,2012-03-17
+2,Birch Meadow Thread,978-0-7103-2578-5,5,1,biography,paperback,349,18.85,2022-09-12
+3,Letters Paper,978-0-467-14195-9,16,1,fiction,paperback,435,6.37,2014-03-04
+4,Marrow Salt,978-1-5142-2073-3,20,2,crime,paperback,509,6.07,2015-05-05
+5,Harbour Birch Letters,978-1-4746-6453-0,23,2,science_fiction,paperback,391,40.93,2024-01-19
+6,Tide Garden Silver,978-0-946131-16-7,11,5,cooking,paperback,329,6.75,2014-05-31
+7,Lighthouse Lantern,978-0-949379-94-8,8,1,fiction,hardback,241,12.70,2019-03-07
+8,River Tide Almanac,978-0-88024-442-8,5,5,history,hardback,495,36.00,2022-12-13
+9,River Atlas,978-0-7518-5781-8,13,12,fiction,ebook,403,6.15,2019-06-13
+10,Birch Hollow,978-0-443-09456-9,43,2,crime,hardback,343,31.52,2022-12-29
+11,Meadow Archive,978-0-346-96336-8,26,8,science_fiction,paperback,548,16.74,2010-02-05
+12,Harbour Fields Compass,978-1-7976-4410-3,1,11,children,ebook,372,34.72,2019-03-28
+13,Midnight Orchard,978-0-274-50123-6,15,1,science,paperback,412,14.98,2020-07-17
+14,Winter Salt,978-0-01-618544-1,7,1,biography,hardback,239,16.12,2011-01-16
+15,Station Meadow Orchard,978-1-85826-116-4,2,11,science_fiction,paperback,315,14.36,2024-08-10
+16,Tide Midnight,978-1-82655-195-2,31,2,fiction,paperback,386,19.64,2017-02-13
+17,Harbour River Letters,978-0-87250-180-5,3,5,crime,ebook,399,11.61,2012-09-30
+18,Archive Garden,978-0-358-86722-7,6,1,fiction,hardback,461,18.31,2012-09-01
+19,Atlas Paper Copper,978-0-506-93331-6,31,8,science,paperback,337,5.82,2016-01-09
+20,Silver Lantern,978-1-57950-479-3,1,1,crime,paperback,627,6.82,2022-04-26
+21,Ember Kitchen,978-0-519-68303-1,1,1,fiction,hardback,503,17.71,2009-04-28
+22,Fields Harbour,978-0-10-738581-1,6,7,history,paperback,496,25.76,2019-07-23
+23,Tide Salt,978-0-253-67356-5,43,11,fiction,paperback,311,36.45,2010-01-22
+24,Salt Lighthouse,978-1-75479-049-2,6,2,fiction,paperback,433,6.74,2015-09-04
+25,Kitchen Copper Birch,978-0-8171-7362-3,1,6,history,hardback,263,17.88,2009-07-18
+26,Thread Glass,978-0-00-652956-9,3,10,science,paperback,298,18.76,2019-10-08
+27,Almanac Copper Tide,978-0-623-30536-2,8,1,science_fiction,paperback,397,20.70,2019-03-04
+28,River Marrow Atlas,978-0-14-834396-2,17,2,science_fiction,paperback,483,10.12,2021-01-10
+29,Winter Orchard Marrow,978-0-8423-3468-6,26,11,fiction,paperback,492,22.32,2021-04-14
+30,Orchard Midnight,978-0-04-776512-4,50,1,crime,paperback,512,35.98,2018-11-15
+31,Hollow Station Winter,978-0-602-55465-1,2,5,fiction,paperback,350,19.15,2017-07-17
+32,River Almanac,978-0-00-614223-2,50,1,science,paperback,369,32.04,2016-02-20
+33,Quiet Copper Marrow,978-0-07-200776-3,37,1,crime,paperback,494,20.46,2015-06-18
+34,Fields Silver,978-1-714-95510-7,22,2,science_fiction,hardback,652,6.31,2011-05-10
+35,Compass Atlas,978-0-7191-2045-9,43,1,fiction,paperback,383,26.58,2009-02-03
+36,Winter Almanac,978-1-194-69253-0,1,6,fiction,paperback,356,39.23,2015-12-08
+37,Glass Archive Copper,978-1-5030-3581-2,28,1,fiction,paperback,265,39.39,2016-08-15
+38,Marrow Birch,978-1-76580-872-8,14,1,children,paperback,471,16.57,2019-09-27
+39,Garden Lantern Birch,978-1-892911-29-2,41,1,crime,paperback,467,6.05,2011-05-27
+40,Compass Letters,978-1-85905-193-1,2,10,children,paperback,545,5.80,2019-02-26
+41,Archive Thread,978-1-347-17215-5,5,7,children,paperback,529,39.52,2011-10-13
+42,Garden Almanac,978-1-4056-6397-7,38,4,fiction,paperback,369,36.77,2013-02-15
+43,Letters Harbour,978-1-333-33322-5,3,4,fiction,paperback,341,12.42,2017-09-06
+44,Hollow Paper Birch,978-0-7214-8762-5,16,1,history,hardback,602,6.64,2012-12-16
+45,Station Lantern,978-1-75791-613-4,34,10,crime,paperback,392,24.14,2015-06-18
+46,Silver Birch Meadow,978-0-661-27423-1,19,1,children,hardback,495,10.94,2011-04-26
+47,Almanac Marrow Meadow,978-1-6513-1540-8,1,12,crime,paperback,339,5.50,2017-10-07
+48,River Compass,978-1-76924-045-6,10,1,fiction,paperback,525,5.90,2012-10-23
+49,Lighthouse Ember Compass,978-0-669-92358-2,1,12,history,hardback,263,9.32,2018-12-05
+50,Marrow Hollow,978-0-926840-71-3,35,3,fiction,ebook,388,13.68,2009-03-23
+51,Copper Compass Thread,978-1-291-21497-0,12,1,crime,hardback,626,5.53,2022-03-03
+52,Harbour Atlas,978-0-17-889751-0,32,9,science_fiction,paperback,515,11.16,2022-04-26
+53,Midnight Compass,978-0-927464-70-3,5,10,biography,hardback,410,13.21,2018-11-02
+54,Station Orchard,978-1-159-20429-7,47,3,children,paperback,431,6.19,2016-12-08
+55,River Harbour,978-0-358-70455-3,28,7,fiction,ebook,428,15.88,2013-05-18
+56,Midnight Lantern,978-0-502-60408-1,29,2,crime,paperback,194,10.11,2019-04-17
+57,Tide Kitchen Quiet,978-0-8096-8334-5,48,6,children,ebook,328,19.38,2012-08-01
+58,Meadow Garden,978-0-02-990440-4,7,1,cooking,paperback,519,26.67,2010-11-16
+59,Glass Meadow River,978-0-230-19602-5,3,6,biography,paperback,480,38.05,2009-02-02
+60,Garden Compass Ember,978-1-82891-131-0,23,4,biography,paperback,465,41.91,2010-03-08
+61,Compass Ember,978-0-9547805-0-0,2,6,science_fiction,paperback,421,9.14,2009-11-16
+62,Winter Ember,978-1-82133-837-4,4,9,cooking,paperback,528,27.13,2020-11-27
+63,Harbour Silver Meadow,978-1-967822-55-3,7,8,biography,paperback,532,15.47,2024-02-28
+64,Kitchen Ember,978-0-657-71119-1,1,2,crime,paperback,567,12.69,2014-03-10
+65,Harbour Kitchen River,978-1-172-57859-7,20,6,science,ebook,239,16.43,2009-03-09
+66,Lighthouse Hollow Winter,978-1-86566-559-7,1,9,biography,paperback,506,5.97,2023-09-11
+67,Archive Ember,978-0-564-90252-1,38,1,science,hardback,425,5.52,2019-08-03
+68,Almanac Orchard,978-1-6957-7502-2,23,7,science_fiction,ebook,462,38.76,2020-04-23
+69,Atlas Thread,978-1-397-41249-2,33,8,fiction,paperback,268,12.20,2010-08-03
+70,Ember Tide Kitchen,978-0-17-203228-3,38,1,history,hardback,303,17.26,2019-07-18
+71,Weather Hollow,978-1-6523-5018-7,2,10,science_fiction,hardback,480,5.84,2019-01-09
+72,Winter Archive Almanac,978-0-508-31555-4,1,4,biography,paperback,437,19.66,2023-04-05
+73,Lighthouse Silver,978-1-288-16746-3,7,6,science,paperback,472,7.76,2009-12-20
+74,Midnight Kitchen Tide,978-0-542-92739-3,31,1,fiction,ebook,487,10.58,2022-12-23
+75,Thread Fields Tide,978-0-9708265-2-7,3,9,children,hardback,411,7.56,2015-05-14
+76,Weather Salt,978-0-558-33399-7,10,12,fiction,paperback,518,17.50,2024-06-06
+77,Copper Thread Weather,978-1-55849-423-7,15,9,history,paperback,475,23.16,2021-05-14
+78,Silver Kitchen,978-1-149-36000-2,1,4,fiction,hardback,635,8.57,2018-10-04
+79,Birch Glass,978-1-84434-324-9,15,6,fiction,paperback,450,14.03,2013-01-06
+80,Marrow Copper,978-1-0954-2086-7,45,10,crime,hardback,298,10.78,2020-02-11
+81,Tide Archive,978-0-451-67158-5,45,1,biography,hardback,457,20.17,2010-03-15
+82,Atlas Midnight,978-1-82974-798-7,1,1,crime,hardback,261,10.23,2016-11-04
+83,Lantern Fields,978-0-87920-327-6,1,1,science_fiction,hardback,264,8.87,2022-01-27
+84,Paper Midnight,978-1-952023-69-9,2,1,fiction,paperback,351,8.62,2021-10-24
+85,Salt Almanac,978-0-938224-09-9,48,4,crime,paperback,441,11.61,2017-05-19
+86,Fields Atlas Archive,978-1-145-36093-8,24,2,history,paperback,370,26.41,2012-08-31
+87,Glass Weather Fields,978-1-248-30564-5,1,1,science_fiction,ebook,381,16.30,2009-07-02
+88,Tide Station,978-0-327-72990-7,24,4,science_fiction,hardback,401,5.52,2015-01-30
+89,Salt Ember Quiet,978-1-05-178699-0,37,1,children,paperback,511,12.21,2015-12-07
+90,Meadow River Winter,978-0-651-37378-4,3,2,fiction,hardback,348,10.91,2013-03-18
+91,River Station Weather,978-1-01-198852-5,5,4,science_fiction,paperback,469,24.37,2014-06-23
+92,Thread Meadow Birch,978-0-10-424980-2,2,8,science_fiction,hardback,448,9.12,2011-02-13
+93,Quiet Paper,978-0-9500110-5-9,22,2,crime,paperback,363,39.78,2015-08-07
+94,Almanac Meadow Kitchen,978-0-330-37212-1,8,5,science,ebook,239,19.87,2012-04-23
+95,Kitchen Winter Quiet,978-0-7915-2038-3,5,1,crime,paperback,372,31.60,2013-03-08
+96,Copper Harbour,978-1-7288-0688-4,50,1,fiction,hardback,216,25.24,2019-10-09
+97,Glass Letters,978-0-7965-9386-3,1,1,science_fiction,paperback,494,13.07,2015-09-27
+98,Harbour Hollow,978-1-181-84816-2,1,1,history,paperback,396,11.48,2024-01-23
+99,Copper Marrow Orchard,978-0-924000-75-1,49,3,cooking,paperback,439,24.49,2022-07-20
+100,Thread Birch Lighthouse,978-1-351-65786-0,1,1,history,ebook,285,8.60,2013-05-02
+101,River Kitchen Ember,978-0-917101-20-5,16,1,crime,hardback,400,6.36,2009-08-13
+102,Letters Paper Weather,978-0-8286-0680-6,1,3,science_fiction,paperback,310,23.06,2022-04-13
+103,Marrow Ember,978-1-715-95295-2,19,11,fiction,paperback,509,15.18,2009-03-30
+104,Glass Compass,978-1-01-632925-5,43,10,crime,paperback,334,14.16,2021-07-05
+105,Hollow Almanac,978-0-9562607-8-9,5,3,cooking,paperback,265,6.22,2023-10-31
+106,Orchard Harbour,978-0-9963863-1-9,29,1,crime,ebook,450,8.39,2011-03-14
+107,Orchard Thread,978-0-02-824273-6,21,12,children,paperback,593,16.67,2020-01-04
+108,Garden Silver Hollow,978-0-7117-0057-4,28,5,fiction,hardback,354,5.70,2023-07-09
+109,Ember Paper Compass,978-0-666-20936-8,2,8,children,paperback,307,22.65,2014-04-17
+110,Winter Midnight,978-0-04-903833-2,35,1,fiction,paperback,458,27.00,2009-11-04
+111,Midnight Salt Winter,978-1-322-22417-6,2,10,cooking,hardback,230,23.83,2010-03-06
+112,Salt Paper Winter,978-0-7423-1148-0,6,1,science_fiction,paperback,455,28.17,2019-08-29
+113,Lighthouse Thread,978-1-56711-655-7,19,4,children,paperback,372,22.47,2022-07-22
+114,Letters Station,978-1-6743-0841-8,34,2,children,hardback,246,23.21,2024-03-30
+115,River Copper Silver,978-1-041-31567-4,1,1,history,paperback,319,12.78,2018-10-09
+116,Fields Marrow Midnight,978-0-367-44510-2,1,3,science,paperback,345,7.24,2020-11-24
+117,Silver Letters Weather,978-1-63498-214-6,2,2,fiction,hardback,441,18.20,2015-05-14
+118,Garden Winter Copper,978-1-125-44003-2,2,6,crime,hardback,164,10.36,2022-04-29
+119,Almanac Copper Salt,978-1-160-10485-2,7,11,fiction,paperback,519,33.31,2024-07-24
+120,Archive Orchard,978-0-905068-07-7,4,12,crime,paperback,548,17.29,2023-02-11
+121,Midnight Atlas Hollow,978-0-7971-8316-2,37,8,history,paperback,506,6.05,2017-06-23
+122,Meadow Glass Winter,978-1-68156-139-4,6,1,children,paperback,519,12.96,2021-10-21
+123,Lantern Glass Tide,978-0-8233-9176-9,10,6,fiction,ebook,437,5.77,2012-01-24
+124,Thread Fields,978-0-14-012159-9,35,10,history,paperback,402,31.18,2023-12-01
+125,Meadow Weather Atlas,978-0-7288-2273-3,7,10,biography,paperback,344,7.35,2021-01-29
+126,Letters Thread,978-0-555-26616-8,1,3,science_fiction,paperback,462,5.90,2018-11-03
+127,Archive Quiet Glass,978-0-7886-4833-5,9,1,science_fiction,hardback,312,29.70,2017-02-10
+128,Thread Meadow,978-1-0758-6850-4,3,1,children,hardback,431,6.84,2021-06-29
+129,Silver Harbour Ember,978-0-03-652102-1,1,1,history,paperback,412,15.48,2021-03-06
+130,Lighthouse Salt,978-0-571-90826-4,34,11,biography,paperback,438,17.65,2016-11-24
+131,Salt Lighthouse Silver,978-0-352-02366-7,5,8,fiction,hardback,416,25.61,2017-03-26
+132,Midnight Thread,978-0-12-111193-9,12,11,crime,hardback,599,16.30,2019-12-16
+133,Garden Silver,978-1-0786-7839-1,23,8,fiction,paperback,459,29.69,2014-11-22
+134,Archive Orchard Lantern,978-1-171-04141-2,2,1,crime,hardback,445,5.92,2013-01-06
+135,Letters Ember,978-1-76192-951-9,38,1,science,hardback,344,6.09,2009-10-13
+136,Fields Garden,978-1-84447-091-4,16,2,science_fiction,hardback,426,16.52,2009-07-23
+137,Glass Station,978-0-644-52419-3,1,1,history,paperback,429,15.86,2019-11-28
+138,Paper Tide,978-1-7230-7339-7,29,9,fiction,paperback,415,5.50,2015-05-04
+139,Compass Lantern Fields,978-1-60893-259-7,40,12,crime,paperback,433,19.76,2015-08-10
+140,Marrow Station,978-0-18-501071-1,30,1,fiction,paperback,475,38.59,2024-02-10
+141,Lighthouse Copper Ember,978-0-504-90355-7,15,3,science,hardback,431,29.01,2018-03-29
+142,Thread Station,978-1-80759-166-3,35,11,cooking,paperback,511,5.64,2014-08-26
+143,Birch Meadow,978-1-395-03097-1,26,1,history,paperback,281,23.80,2018-03-09
+144,Archive Kitchen,978-1-4103-5597-3,6,11,fiction,paperback,448,5.93,2009-11-16
+145,Kitchen Marrow Hollow,978-1-342-85515-2,2,5,science,paperback,424,6.99,2015-02-04
+146,Lighthouse Glass Tide,978-0-12-850570-0,14,1,fiction,hardback,515,6.01,2017-12-03
+147,Lantern Archive Quiet,978-0-212-20507-3,19,2,crime,hardback,429,37.59,2009-02-09
+148,Kitchen Copper,978-1-873625-79-8,32,1,science,paperback,345,5.50,2021-02-01
+149,Paper Orchard Fields,978-0-353-03525-6,24,4,biography,paperback,379,18.82,2022-12-10
+150,Tide Fields Archive,978-1-80997-968-1,24,12,biography,paperback,294,5.51,2019-09-11
