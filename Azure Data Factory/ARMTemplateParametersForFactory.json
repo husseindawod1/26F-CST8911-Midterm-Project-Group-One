@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "factoryName": {
+            "value": "cst8911-midterm-proj-data-factory"
+        },
+        "BookstoreDBtoDataFactory_password": {
+            "value": ""
+        },
+        "AzureDataFactoryToBookstoreSQLdatabase_password": {
+            "value": ""
+        },
+        "LS_BookstoreBlob_Source_connectionString": {
+            "value": ""
+        },
+        "LS_BookstoreSQL_Sink_password": {
+            "value": ""
+        },
+        "BookstoreDBtoDataFactory_properties_typeProperties_server": {
+            "value": "bookstore-orders-and-reviews-db-server.database.windows.net"
+        },
+        "BookstoreDBtoDataFactory_properties_typeProperties_database": {
+            "value": " bookstore-orders-and-reviews-db"
+        },
+        "BookstoreDBtoDataFactory_properties_typeProperties_userName": {
+            "value": "midprojserver"
+        },
+        "AzureDataFactoryToBookstoreSQLdatabase_properties_typeProperties_server": {
+            "value": "bookstore-orders-and-reviews-db-server.database.windows.net"
+        },
+        "AzureDataFactoryToBookstoreSQLdatabase_properties_typeProperties_database": {
+            "value": " bookstore-orders-and-reviews-db"
+        },
+        "AzureDataFactoryToBookstoreSQLdatabase_properties_typeProperties_userName": {
+            "value": "midprojserver"
+        },
+        "LS_BookstoreSQL_Sink_properties_typeProperties_server": {
+            "value": "bookstore-orders-and-reviews-db-server.database.windows.net"
+        },
+        "LS_BookstoreSQL_Sink_properties_typeProperties_database": {
+            "value": " bookstore-orders-and-reviews-db"
+        },
+        "LS_BookstoreSQL_Sink_properties_typeProperties_userName": {
+            "value": "midprojserver"
+        }
+    }
+}
