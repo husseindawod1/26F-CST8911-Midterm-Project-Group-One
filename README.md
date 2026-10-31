@@ -1,5 +1,6 @@
 # CST8911 Midterm Project — Scenario 2: Online Bookstore
 
+## Contribution Table (each person's contribution was exclusively their own)
 | Member | Name | Responsibility |
 | :--- | :--- | :--- |
 | Person 1 | Hussein Dawod | Created the Azure resource group, storage account, Data Factory instance, SQL server, and database; configured initial access settings |
@@ -13,7 +14,7 @@ This project demonstrates a data workflow from **Azure Blob Storage → Azure Da
 ### Person 1 — Azure Resources and Infrastructure
 
 - Created and configured the resource group, Azure Blob Storage, Azure Data Factory, Azure SQL Server, and Azure SQL Database.
-- Managed resource access and connectivity settings needed for the data workflow, including permissions, storage access, and SQL networking.
+- Managed resource access and connectivity settings needed for the data workflow, including permissions, storage access, and SQL server authentication.
 
 ### Person 2 — Datasets and SQL
 
@@ -38,4 +39,4 @@ This project demonstrates a data workflow from **Azure Blob Storage → Azure Da
 
 ## Acknowledgement of AI Use
 
-Given our small group size and limited time, our team used OpenAI ChatGPT to help plan a fair division of work, organize and draft parts of the documentation, and troubleshoot technical issues. Team members completed the project work, reviewed the AI-assisted content, and are responsible for the accuracy of the final submission.
+Given our small group size and limited time, our team used OpenAI ChatGPT to help plan a fair division of work, organize and draft parts of the documentation, and troubleshoot technical issues. Team members completed the project work, reviewed the AI-assisted content, and are responsible for the accuracy of the final submission. Hussein Dawod completed his documentation in the report without any assistance from AI.
